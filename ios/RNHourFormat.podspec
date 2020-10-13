@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.description  = <<-DESC
                   Get time format used in user device
                    DESC
-  s.homepage     = ""
+  s.homepage     = "https://github.com/softwaremansion/react-native-hour-format"
   s.license      = "MIT"
   # s.license      = { :type => "MIT", :file => "../LICENSE" }
   s.author             = { "author" => "mironiasty" }
