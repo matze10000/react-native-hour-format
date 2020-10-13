@@ -47,3 +47,4 @@ local.properties
 *.iml
 _beta_release_notes.txt
 project.xcworkspace
+package-lock.json
